@@ -26,7 +26,7 @@ Think of it like apt/yum/homebrew for Kubernetes.
 - Helm runs on your laptop, CI/CD, or wherever you want it to run.
 - Charts are Helm packages that contain at least two things:
   - A description of the package (`Chart.yaml`)
-  - One or more templates, which contain Kubernetes manifest files
+  - One or more templates, which contain Kubernetes manifest files.
 - Charts can be stored on disk, or fetched from remote chart repositories
   (like Debian or RedHat packages)
 
